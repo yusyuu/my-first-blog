@@ -16,11 +16,3 @@ class Post(models.Model):
 
     def __str__(self):
         return self.title
-<<<<<<< HEAD
-
-
-from django.db import models
-
-# Create your models here.
-=======
->>>>>>> 07ca4a03651bd05cf76c3fc1b478cc20c59604c2
